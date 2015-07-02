@@ -1,0 +1,14 @@
+{
+  "name": "kson",
+  "version": "0.0.1",
+  "description": "Lightweight JSON serializer/deserializer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "sakatam",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.3.0"
+  }
+}
