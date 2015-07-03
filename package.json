@@ -1,6 +1,6 @@
 {
   "name": "kson",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Lightweight JSON serializer/deserializer",
   "main": "index.js",
   "scripts": {
