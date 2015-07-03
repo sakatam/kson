@@ -1,4 +1,7 @@
 # kson
+
+[![Build Status](https://travis-ci.org/sakatam/kson.svg)](https://travis-ci.org/sakatam/kson)
+
 Flyweight JSON serializer & parser.
 
 # usage
