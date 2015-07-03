@@ -18,5 +18,9 @@
     "mocha": "^2.2.5",
     "mocha-phantomjs": "^3.5.3",
     "phantomjs": "^1.9.17"
-  }
+  },
+  "keywords": [
+    "json",
+    "serializer"
+  ]
 }
