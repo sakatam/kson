@@ -71,5 +71,5 @@
 })(
   (typeof exports !== "undefined")
   ? exports
-  : (window.KSON ? window.KSON : window.KSON = {})
+  : window.KSON || (window.KSON = {})
 )
